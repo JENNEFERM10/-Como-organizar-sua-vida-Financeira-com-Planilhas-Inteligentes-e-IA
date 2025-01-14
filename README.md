@@ -35,7 +35,7 @@ Este projeto foi criado para ajudar os usuários a organizarem suas finanças de
 ## Como Usar
 
 1. **Baixe os Arquivos**:
-   - [Planilha Fictícia](./ficional_finance.xlsx)
+   - [Planilha Fictícia](ficional_finance.xlsx)
    - [Gráfico Financeiro](./financial_chart.png)
 
 2. **Abra a Planilha**:
